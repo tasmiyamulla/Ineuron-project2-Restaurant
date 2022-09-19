@@ -2,7 +2,7 @@
 
 _by Tasmiya 💗_
 
-### _Live Link_ -: [Restaurant]()
+### _Live Link_ -: [Restaurant](https://tasmiya-project2.netlify.app/)
 
 ![Restaurant](./2.png)
 
